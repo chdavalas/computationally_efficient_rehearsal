@@ -1,0 +1,4 @@
+pandas
+tensorflow-datasets
+tensorflow-probability
+tensorflow==2.4.1
