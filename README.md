@@ -65,9 +65,10 @@ Assuming that the environment is a linux terminal or WSL ...
     --random-task-select
     --augment-images
 
-    --drifta                           check the drift activated methods
-    --drifta2                          check the two drift detector methods
-    --conr                             check the continual rehearsal methods
+    --drifta              check the drift activated methods
+    --drifta2             check the two drift detector methods
+    --conr                check the continual rehearsal methods
+    --all-methods         check all methods
 
     --static-lr                        deactivate dynamic rate schedule globally
     --static-rh-repeat                 deactivate dynamic rehearsal repeat globally
