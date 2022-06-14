@@ -40,7 +40,7 @@ Assuming that the environment is a linux terminal or WSL ...
   * git clone project and cd
   * Create and activate conda/virtualenv.
   * install suggested requirements (we provide a requirements.txt) and check if properly installed.
-  * python3 run.py [--run-all-methods | --drifta | --conr | --drifta2] (Check the argument list below)
+  * ```$ python3 run.py [--run-all-methods | --drifta | --conr | --drifta2]``` (Check the argument list below)
  <details>
     <summary> <b> Argument list (Click here to expand) </b> </summary>
 
@@ -89,7 +89,7 @@ Assuming that the environment is a linux terminal or WSL ...
 
 ### Acknowlegdements ###
 
-This work is supported by the ``TEACHING'' project that has received funding from the European Union’s Horizon 2020 research and innovation programme under the grant agreement No 871385. The work reflects only the author’s view and the EU Agency is not responsible for any use that may be made of the information it contains
+This work is supported by the TEACHING project that has received funding from the European Union’s Horizon 2020 research and innovation programme under the grant agreement No 871385. The work reflects only the author’s view and the EU Agency is not responsible for any use that may be made of the information it contains
 
 ### Citation ###
 
