@@ -40,7 +40,7 @@ Assuming that the environment is a linux terminal or WSL ...
   * git clone project and cd
   * Create and activate conda/virtualenv.
   * install suggested requirements (we provide a requirements.txt) and check if properly installed.
-  * python3 run.py [--run-all-methods | --only-drifta | --only-conr | --only-drifta2] (Check the argument list below)
+  * python3 run.py [--run-all-methods | --drifta | --conr | --drifta2] (Check the argument list below)
  <details>
     <summary> <b> Argument list (Click here to expand) </b> </summary>
 
