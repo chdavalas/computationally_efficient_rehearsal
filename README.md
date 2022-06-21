@@ -1,6 +1,6 @@
 ### Computationally Efficient Rehearsal for Online Continual Learning ###
 
-This is the TensorFlow2 method implementations as described in the paper:
+This is the TensorFlow2 method implementations as described in the ICIAP2022 paper:
 
 <br/>
 Davalas, Charalampos & Michail, Dimitrios & Diou, Christos & Varlamis, Iraklis & Tserpes, Konstantinos. (2022). Computationally Efficient Rehearsal for Online Continual Learning. 10.1007/978-3-031-06433-3_4.
@@ -13,7 +13,7 @@ We test our framework for efficient rehearsal, alongside experience replay basel
 
 Our Methods are composed by the following:
 
- * Drift-Activated rehearsal (Where the drift detector activated a rehearsal strategy when the model shows degradation )
+ * Drift-Activated rehearsal (Where the drift detector activates a rehearsal strategy when the model shows degradation )
  * Dynamic Rehearsal Iterations, Based on misclassification rate
  * Learning Rate Scheduling, Based on misclassification rate
  * Convergence-Based Rehearsal, where the model uses rehearsal repetitions until it converges to the solution.
