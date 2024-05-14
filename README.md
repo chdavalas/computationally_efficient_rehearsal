@@ -3,7 +3,10 @@
 This is the TensorFlow2 method implementations as described in our following papers:
 
 <br/>
-Davalas, C., Michail, D., Diou, C. et al. A rehearsal framework for computational efficiency in online continual learning. Appl Intell (2024). https://doi.org/10.1007/s10489-024-05493-z \
+Davalas, C., Michail, D., Diou, C. et al. A rehearsal framework for computational efficiency in online continual learning. Appl Intell (2024). https://doi.org/10.1007/s10489-024-05493-z
+<br/> \
+
+<br/>
 Davalas, Charalampos & Michail, Dimitrios & Diou, Christos & Varlamis, Iraklis & Tserpes, Konstantinos. (2022). Computationally Efficient Rehearsal for Online Continual Learning. 10.1007/978-3-031-06433-3_4.
 <br/>
 
