@@ -1,8 +1,10 @@
 ### Computationally Efficient Rehearsal for Online Continual Learning ###
 
-This is the TensorFlow2 method implementations as described in the ICIAP2022 paper:
+This is the TensorFlow2 method implementations as described in our following papers:
 
 <br/>
+Davalas, C., Michail, D., Diou, C. et al. A rehearsal framework for computational efficiency in online continual learning. Appl Intell (2024). https://doi.org/10.1007/s10489-024-05493-z
+
 Davalas, Charalampos & Michail, Dimitrios & Diou, Christos & Varlamis, Iraklis & Tserpes, Konstantinos. (2022). Computationally Efficient Rehearsal for Online Continual Learning. 10.1007/978-3-031-06433-3_4.
 <br/>
 
@@ -97,14 +99,9 @@ This work is supported by the TEACHING project that has received funding from th
 
 Thanks in advance for citing us :)
 ```
-@inbook{inbook,
-author = {Davalas, Charalampos and Michail, Dimitrios and Diou, Christos and Varlamis, Iraklis and Tserpes, Konstantinos},
-year = {2022},
-month = {05},
-pages = {39-49},
-title = {Computationally Efficient Rehearsal for Online Continual Learning},
-isbn = {978-3-031-06432-6},
-doi = {10.1007/978-3-031-06433-3_4}
-}
+Davalas, C., Michail, D., Diou, C. et al. A rehearsal framework for computational efficiency in online continual learning. Appl Intell (2024). https://doi.org/10.1007/s10489-024-05493-z
+
+Davalas, Charalampos & Michail, Dimitrios & Diou, Christos & Varlamis, Iraklis & Tserpes, Konstantinos. (2022). Computationally Efficient Rehearsal for Online Continual Learning. 10.1007/978-3-031-06433-3_4.
+
 
 ```
